@@ -1,2 +1,3 @@
-# Basic-Machine-Learning
+# Basic MachineLearning
+
 Introduction to machine learning.
