@@ -1,6 +1,4 @@
-# Basic Machine Learning
-
-My introduction to machine learning.
+# Telecom Classifier Machine Learning
 
 This notebook performs a brief EDA on a telecommunications dataset.
 
